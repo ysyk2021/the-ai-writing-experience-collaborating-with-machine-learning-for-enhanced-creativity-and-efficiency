@@ -1,4 +1,4 @@
-Chapter: Preparing for Collaboration
+Preparing for Collaboration
 ====================================
 
 Preparing for collaboration with machine learning for AI writing is critical to enhancing your creativity and efficiency. In this chapter, we will discuss some tips for preparing for successful collaboration.

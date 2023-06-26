@@ -1,4 +1,4 @@
-Chapter: Working with an AI Writing Tool
+Working with an AI Writing Tool
 ========================================
 
 Working with an AI writing tool can be a powerful tool for enhancing creativity and efficiency in the writing process. In this chapter, we will discuss some tips for using an AI writing tool effectively, including getting started with the tool, generating ideas and outlines, drafting and revising content, and editing and proofreading.
