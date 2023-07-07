@@ -3,7 +3,6 @@
 - [Introduction](README.md)
   - [The rise of machine learning in writing](chapter-1-1.md)
   - [Advantages of collaborating with AI for writing projects](chapter-1-2.md)
-  - [Overview of the book's content](chapter-1-3.md)
 - [Understanding AI Writing Tools](chapter-2.md)
   - [Types of AI writing tools](chapter-2-1.md)
   - [Benefits and limitations of each tool](chapter-2-2.md)
