@@ -1,5 +1,3 @@
-Predictions for the Future of AI-Assisted Writing Experience
-===================================================================================================================
 
 The future of AI-assisted writing experience is full of exciting possibilities, with many predictions for how technology will continue to enhance creativity and efficiency in the writing process. In this chapter, we will discuss some of the predictions for the future of AI-assisted writing experience.
 

@@ -1,5 +1,3 @@
-Avoiding Common Pitfalls
-==============================================================================
 
 Collaborating with machine learning can be a powerful way to enhance your writing experience. However, like any collaboration, there are pitfalls that can derail the process and hinder your progress. In this chapter, we will discuss some best practices for avoiding common pitfalls when collaborating with machine learning for AI writing.
 

@@ -1,5 +1,3 @@
-Drafting and Revising Content
-=======================================================================
 
 Collaborating with machine learning for AI writing can be a powerful way to enhance your drafting and revising process. However, it is important to understand how to effectively work with an AI writing tool during these stages of the writing process. In this chapter, we will discuss some tips for drafting and revising content when working with an AI writing tool.
 

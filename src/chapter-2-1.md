@@ -1,5 +1,3 @@
-Types of AI Writing Tools
-=========================================================
 
 AI writing tools are becoming increasingly popular among writers, marketers, and businesses due to their ability to automate several aspects of the writing process. In this chapter, we will explore the different types of AI writing tools available and how they can be used to enhance the writing experience.
 

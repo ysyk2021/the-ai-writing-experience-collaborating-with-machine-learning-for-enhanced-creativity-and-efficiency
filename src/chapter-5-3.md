@@ -1,5 +1,3 @@
-Managing Quality Control During Collaboration
-=========================================================================================================
 
 Integrating AI writing into your creative process can enhance your productivity and efficiency. However, it is important to manage quality control during collaboration to ensure that the final written work meets your objectives and standards. In this chapter, we will discuss some tips for managing quality control when integrating AI writing into your creative process.
 

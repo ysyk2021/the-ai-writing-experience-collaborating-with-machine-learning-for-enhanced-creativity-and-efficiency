@@ -1,5 +1,3 @@
-Editing and Proofreading
-==================================================================
 
 Collaborating with machine learning for AI writing can help you streamline the editing and proofreading process. In this chapter, we will discuss some tips for working with an AI writing tool to edit and proofread your written work.
 

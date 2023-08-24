@@ -1,5 +1,3 @@
-Identifying Your Target Audience
-======================================================================
 
 Identifying your target audience is critical to producing written work that resonates with your readers when collaborating with machine learning for AI writing. In this chapter, we will discuss some tips for identifying your target audience and tailoring your written work to meet their needs.
 

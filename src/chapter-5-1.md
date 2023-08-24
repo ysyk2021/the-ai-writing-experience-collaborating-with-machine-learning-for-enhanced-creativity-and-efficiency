@@ -1,5 +1,3 @@
-Leveraging AI to Enhance Creativity
-===============================================================================================
 
 Integrating AI writing into your creative process can enhance your productivity and efficiency, but it can also be a powerful tool for enhancing creativity. In this chapter, we will discuss some tips for leveraging AI to enhance creativity when collaborating on written work.
 

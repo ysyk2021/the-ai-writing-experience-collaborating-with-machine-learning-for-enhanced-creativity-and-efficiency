@@ -1,5 +1,3 @@
-Getting Started with the Tool
-=======================================================================
 
 Collaborating with machine learning for AI writing can be a powerful way to enhance your writing experience. However, getting started with an AI writing tool can be daunting, especially if you are new to the technology. In this chapter, we will discuss some tips for getting started with an AI writing tool.
 

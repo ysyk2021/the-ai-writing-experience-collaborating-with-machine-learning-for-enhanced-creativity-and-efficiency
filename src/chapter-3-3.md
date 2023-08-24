@@ -1,5 +1,3 @@
-Creating a Style Guide
-============================================================
 
 Creating a style guide is critical to ensuring that written work produced through collaboration with machine learning is consistent and high-quality. In this chapter, we will discuss some tips for creating a style guide that aligns with your objectives and resonates with your target audience.
 
