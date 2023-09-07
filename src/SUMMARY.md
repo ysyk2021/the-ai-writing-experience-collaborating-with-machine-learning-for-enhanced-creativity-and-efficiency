@@ -30,3 +30,4 @@
   - [Predictions for the future of AI-assisted writing experience](chapter-7-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
